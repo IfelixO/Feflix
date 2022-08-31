@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.header-all {
+    width: fit-content;
+    height: 13vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-call {
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+
+.header-shuffle {
+    margin-bottom: 13px;
+    width:71px;
+    height: 47px;
+}

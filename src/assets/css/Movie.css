@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.movie-all {
+    width: 477px;
+    display: flex;
+}
+
+.movie-poster {
+    width: 250px;
+    height: 300px;
+    margin-right: 34px;
+}
+
+.movie-text-title {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.movie-text-synopsis {
+    font-size: 12px;
+    margin-top: 14.4px;
+}
